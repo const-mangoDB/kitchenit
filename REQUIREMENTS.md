@@ -8,14 +8,6 @@ No more staring aimlessly at your pantry, wondering what to cook with the ingred
 
 ## Scope
 
-### IN
-
-- XXX
-
-### OUT
-
-- XXX
-
 ### Minimum Viable Product
 
 - Login to your personal kitchen
@@ -30,10 +22,8 @@ No more staring aimlessly at your pantry, wondering what to cook with the ingred
 - Add ingredient profile/descriptions
 - Add grouping functionality for recipes e.g. desserts, christmas, date-night, etc.
 
-## Functional Requirements
+## Domain Model / Database Schema
 
-1. XXX
+This contains the ins/outs, functional requirements, and data flow of the app
 
-### Data Flow
-
-1. XXX
+![Domain Model of KitchenIt](![Domain Model of KitchenIt](kitchenit-prep/img/domain-model.jpg))
