@@ -30,7 +30,7 @@ So what are you waiting for? Sign up for KitchenIt today and elevate your home c
 
 ## Domain Model / Database Schema
 
-![Domain Model of KitchenIt](kitchenit-prep/img/domain-model.jpg)
+![Domain Model of KitchenIt](img/domain-model.jpg)
 
 ## Team Members
 

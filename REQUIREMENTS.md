@@ -26,4 +26,4 @@ No more staring aimlessly at your pantry, wondering what to cook with the ingred
 
 This contains the ins/outs, functional requirements, and data flow of the app
 
-![Domain Model of KitchenIt](![Domain Model of KitchenIt](kitchenit-prep/img/domain-model.jpg))
+![Domain Model of KitchenIt](![Domain Model of KitchenIt](img/domain-model.jpg))
